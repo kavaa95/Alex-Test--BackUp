@@ -1,0 +1,14 @@
+.main {
+  background-color: peru;
+}
+.gallery-Card {
+  float: left;
+}
+.gallery-Card:first-of-type {
+  float: left;
+}
+
+.gallery-Card:nth-child(4) {
+  float: left;
+  margin: 0 0 0 0;
+}
